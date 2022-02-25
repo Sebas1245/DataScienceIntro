@@ -153,3 +153,10 @@ cython_debug/
 
 # MacOS generated files
 **/.DS_Store
+
+# CLass presentations, not to be shared publicly
+ClassPresentations/
+
+# Lab01  
+Lab01/contacts.csv
+Lab01/clean_contact_phone_nums.csv
