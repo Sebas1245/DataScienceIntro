@@ -160,3 +160,8 @@ ClassPresentations/
 # Lab01  
 Lab01/contacts.csv
 Lab01/clean_contact_phone_nums.csv
+
+# Lab 03
+Lab03/order_products__prior.csv
+Lab03/order_products__train.csv
+Lab03/orders.csv
