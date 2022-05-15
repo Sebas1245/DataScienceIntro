@@ -165,3 +165,8 @@ Lab01/clean_contact_phone_nums.csv
 Lab03/order_products__prior.csv
 Lab03/order_products__train.csv
 Lab03/orders.csv
+
+# dataset folders
+*.csv
+*.xlsx
+data/
